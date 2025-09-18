@@ -1,5 +1,5 @@
 # Welcome!
-This repository contains my blog about various subjects that I have some knowledge in. AI, Software Development, and Linux Struggles/Triumphs/Experiences.
+This repository contains my blog about various subjects that I have some knowledge in, namely AI, Software Development, and Linux Struggles/Triumphs/Experiences.
 ## Hierarchy
 ```
 README: Explains the repo
