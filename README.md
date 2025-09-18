@@ -6,5 +6,3 @@ README: Explains the repo
   2025: Posts From 2025
     September: Posts From September 2025
 ```
-## Tech Stack
-Whatever github.io uses to host markdown sites...
